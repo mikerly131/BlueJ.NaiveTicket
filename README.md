@@ -128,7 +128,7 @@ possible?  Yes.
 ```
 public Student(String name)
 ```
-* Student
+* It belongs to Student
 
 
 ### Exercise 2.17
